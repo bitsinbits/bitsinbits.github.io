@@ -1,0 +1,18 @@
+/* styles.css */
+/* ... (previous styles) ... */
+
+.source-data {
+    background: #fff;
+    margin-bottom: 20px;
+    padding: 20px;
+    border-radius: 5px;
+}
+
+.source-data h2 {
+    margin-top: 0;
+}
+
+.source-data pre {
+    white-space: pre-wrap;
+    word-wrap: break-word;
+}
